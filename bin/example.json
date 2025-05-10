@@ -1,0 +1,27 @@
+{
+    "GetTaskData": {
+        "task1" : {
+            "id" : "1",
+            "description" : "do something quickly",
+            "status" : "doing",
+            "createdAt" : "2025-05-10",
+            "updatedAt" : "2025-05-10"
+        },
+         "task2" : {
+            "id" : "2",
+            "description" : "do something slowly",
+            "status" : "to do",
+            "createdAt" : "2025-05-10",
+            "updatedAt" : "2025-05-10"
+        },
+         "task3" : {
+            "id" : "3",
+            "description" : "do something tomorrow",
+            "status" : "done",
+            "createdAt" : "2025-05-10",
+            "updatedAt" : "2025-05-10"
+        }
+
+    }
+        
+}
